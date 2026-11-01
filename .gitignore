@@ -1,0 +1,30 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and editor settings
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Environment variables and credentials
+.env
+.env.*
+key.json
+*serviceAccount*.json
+*credentials*.json
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
